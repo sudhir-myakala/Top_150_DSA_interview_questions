@@ -1,6 +1,6 @@
 public class Square{
     public static void main(String[] args){
-        int x=33;
+        int x=16;
         int i=2;
         int e=x;
         int res=0;
@@ -21,6 +21,6 @@ public class Square{
             // i++;
            
         }
-        System.out.println(res);
+        // System.out.println(res);
     }
 }
